@@ -1,0 +1,5 @@
+location_id,organization_id,organization_name
+LOC-A,ORG-A,Org A
+LOC-B,ORG-A,Org A
+LOC-C,ORG-B,Org B
+LOC-D,ORG-B,Org B
